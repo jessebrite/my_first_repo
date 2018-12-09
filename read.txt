@@ -1,3 +1,2 @@
-edit_write
 Read only!
-edit_read
+This file should not be written to 
